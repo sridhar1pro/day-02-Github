@@ -2,4 +2,8 @@ ny name is sridhar panigrahy
 
 hjgfsahjsgswkg
 changed for github
+<<<<<<< HEAD
 i changed on main branch
+=======
+i am changed by github editor
+>>>>>>> sridhar
